@@ -58,30 +58,30 @@ switch (randomNumber) {
 
 //same code in if else statments:
 
-if (randomNumber = 0) {
+if (randomNumber == 0) {
   eightBall = 'It is certain';
   console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 1) {
+    else if (randomNumber == 1) {
   eightBall = 'It is decidedly so';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 2) {
+    else if (randomNumber == 2) {
   eightBall = 'Reply hazy try again';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 3) {
+    else if (randomNumber == 3) {
   eightBall = 'Cannot predict now';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 4) {
+    else if (randomNumber == 4) {
   eightBall = 'Do not count on it';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 5) {
+    else if (randomNumber == 5) {
   eightBall = 'My sources say no';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 6) {
+    else if (randomNumber == 6) {
   eightBall = 'Outlook not so good';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 7) {
+    else if (randomNumber == 7) {
   eightBall = 'Outlook not so good';
    console.log(`Eight Ball responds ${eightBall}`) }
-    else if (randomNumber = 8) {
+    else if (randomNumber == 8) {
   eightBall = 'Signs point to yes';
    console.log(`Eight Ball responds ${eightBall}`) } ;
